@@ -1,0 +1,7 @@
+{
+  "name": "cbproguide",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
